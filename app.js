@@ -38,11 +38,11 @@ const terms = [
   },
   {
     id: "recant", name: "Recant & Excommunication", initials: "R/E", category: "document", label: "Church actions",
-    sketch: "Recant means take back a teaching; excommunication means formal removal from the Church community.",
-    religion: "Terms used in Christian church discipline; here, in the Catholic response to Luther.",
-    conflict: "Who had the authority to decide correct teaching and punish religious dissent.",
-    opponent: "Pope Leo X ordered Luther to recant; Luther refused and was excommunicated.",
-    remember: "Recant = take it back. Excommunication = removed from communion with the Church."
+    sketch: "Recant means take back a belief. Excommunicate means remove a person from the Catholic Church.",
+    religion: "Roman Catholic Church terms.",
+    conflict: "The pope has the power to excommunicate someone the Church judges to be in error.",
+    opponent: "Protestants such as Luther refused to recant—that is, take back beliefs they thought were true.",
+    remember: "Recant = take it back. Excommunicate = remove from the Church."
   },
   {
     id: "vernacular", name: "Vernacular", initials: "Aa", category: "idea", label: "Language & access",
